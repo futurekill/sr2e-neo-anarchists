@@ -1,0 +1,32 @@
+{
+  "_id": "b07767a8a3203560",
+  "name": "Coffin Hotel (Cubicle)",
+  "type": "lifestyle",
+  "img": "icons/svg/house.svg",
+  "system": {
+    "level": "low",
+    "monthlyCost": 900,
+    "monthsPaid": 1,
+    "description": "",
+    "notes": "A bed-sized capsule — thin mattress, reading lights, a limited-function telecom, flat trideo, climate controls and (sometimes) a simsense player, all activated by inserting a credstick. Amenities are pay-per-use (a local call 1-5¥, telecom ~5¥/hr). Roughly 30¥/night. Security: the cubicle gives those inside Barrier Rating 12 and is locked by a Rating-3 print-scanner maglock; the hotel computer is Rating 4 with Blaster-3 / Trace / Dump-4 IC. Neo-Anarchists' Guide p.49-51, 102."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1782300000000,
+    "modifiedTime": 1782300000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!b07767a8a3203560"
+}

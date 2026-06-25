@@ -1,0 +1,42 @@
+{
+  "_id": "dca17a07701b921e",
+  "name": "DocWagon Super-Platinum Service Contract",
+  "type": "gear",
+  "img": "icons/svg/regen.svg",
+  "system": {
+    "category": "service",
+    "rating": 0,
+    "quantity": 1,
+    "weight": 0,
+    "cost": 100000,
+    "availability": "",
+    "legality": "Legal",
+    "equipped": false,
+    "concealability": 0,
+    "weaponAccessory": false,
+    "linkedWeaponId": "",
+    "combatTnMod": 0,
+    "accessoryRecoilComp": 0,
+    "requiresSmartgun": false,
+    "notes": "All Platinum benefits plus free employee death benefits and five free resuscitations per year. The wristband carries a life-signs monitor and locator that automatically calls HTR when vitals leave safe parameters. Available only on request. Annual fee. Neo-Anarchists' Guide p.44."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1782300000000,
+    "modifiedTime": 1782300000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!dca17a07701b921e"
+}

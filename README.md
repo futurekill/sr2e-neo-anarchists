@@ -10,11 +10,10 @@ and is enabled per-world. Private repo — copyrighted FASA content, personal us
 only.
 
 ## Status
-Scaffold. Transcribing the gear by section — Killer Accessories (weapons),
-Dressed to Kill (armor), Sharper Image (gear), Coffin Hotels/DocWagon (lifestyles),
-Planes & Lifters (transports). See `docs/PLAN.md`.
-
-## Build
+**Released v0.2.0 — 42 items across 4 packs** (weapons, armor, gear incl.
+lifestyles, transports), render-verified. Catalog complete; remaining book content
+is flavour/infrastructure, out of scope. See `docs/PLAN.md`.
+
 ```
 npm install
 npm run validate

@@ -11,11 +11,17 @@ DocWagon = PDF p.104). **Navigate by the page-number header in the top-right of
 each rendered page, NOT a fixed offset.** The crunch stat tables live in the rules
 appendix (book p.85-103); the front sections (p.30-79) are mostly art ads.
 
-## Done
-- ✅ `na-weapons` — 8 Killer Accessories holdouts (book p.30-32).
+## Done (v0.2.0 — complete)
+- ✅ `na-weapons` — 10 Killer Accessories holdouts (book p.30-33), incl. Fichetti
+  Executive Action + Yamaha Pulsar (book p.33 text page = PDF 42, buried after the
+  art gallery; the burst pistol/taser print two-part damage "4M2 (6L)"/"8S2 (10S)").
 - ✅ `na-armor` — 16 designer pieces (Armor Clothing table, book p.94).
-- TODO: Fichetti Executive Action + Yamaha Pulsar (book p.33) — that page came out
-  as divider art; needs a targeted re-render to confirm where the stats sit.
+- ✅ `na-gear` — 8 Sharper Image gadgets + the coffin-hotel lifestyle + 4 DocWagon
+  contract tiers (folded in here rather than a thin standalone `na-lifestyles`).
+- ✅ `na-vehicles` — 3 transports (Planes & Lifters, book p.90-91).
+
+The remaining book content is setting/flavour (out of scope): security-system
+infrastructure (keypads/scanners as facility gear), McHugh's, social commentary.
 
 ## Scope
 A *street-gear* book: import the droppable crunch only; skip the setting/flavour

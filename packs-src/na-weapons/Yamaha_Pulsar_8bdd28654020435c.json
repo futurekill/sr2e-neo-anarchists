@@ -1,0 +1,59 @@
+{
+  "_id": "8bdd28654020435c",
+  "name": "Yamaha Pulsar",
+  "type": "weapon",
+  "img": "icons/svg/target.svg",
+  "system": {
+    "weaponType": "firearm",
+    "skill": "firearms",
+    "damageCode": "10S",
+    "damageType": "stun",
+    "concealability": 5,
+    "reach": 0,
+    "firingModes": {
+      "ss": false,
+      "sa": true,
+      "bf": false,
+      "fa": false
+    },
+    "ammo": {
+      "current": 4,
+      "max": 4,
+      "type": "taser"
+    },
+    "recoilComp": 0,
+    "ranges": {
+      "short": 5,
+      "medium": 10,
+      "long": 15,
+      "extreme": 20
+    },
+    "strengthMin": 0,
+    "weight": 2,
+    "cost": 1350,
+    "availability": "12/7 days",
+    "legality": "Restricted",
+    "equipped": false,
+    "accessories": [],
+    "notes": "A wireless taser firing capacitor-darts (no trailing wires) that deliver a sine-wave discharge to disrupt neural signals. A struck victim resists with a Body Resistance Test (TN 10); failing that, convulsions incapacitate them for 3D6 turns — each success on a further Body Test (TN 8) cuts the incapacitation by one turn. Book prints the damage as \"8S2 (10S) Stun\"; recorded as 10S stun. Street Index 2. Neo-Anarchists' Guide p.33."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1782300000000,
+    "modifiedTime": 1782300000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!8bdd28654020435c"
+}

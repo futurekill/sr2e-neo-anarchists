@@ -2,7 +2,7 @@
   "id": "sr2e-neo-anarchists",
   "title": "Shadowrun 2E: Neo-Anarchists' Guide to Real Life",
   "description": "Street gear from The Neo-Anarchists' Guide to Real Life (FASA 7208): holdout weapons, designer armor clothing, security & surveillance gear, semiballistic transports and lifestyles, as ready-to-drop items/actors for the Shadowrun 2nd Edition system. The setting/flavour text is not imported.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "compatibility": { "minimum": "13", "verified": "13" },
   "relationships": {
     "systems": [
