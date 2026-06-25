@@ -2,7 +2,20 @@
 
 Source: *The Neo-Anarchists' Guide to Real Life* (FASA 7208). **Scanned PDF, no
 text layer** — render pages (`pdftoppm -r 150 -png`) and read; verify every stat
-against the render. **Offset: PDF page = book page + 1** (book p.2 TOC = PDF p.3).
+against the render.
+
+⚠️ **The PDF↔book offset DRIFTS** — many unnumbered full-page art ads push the PDF
+ahead of the book. It's +1 early (book p.30 weapons = PDF p.31) but +9 by the
+rules appendix (book p.86 = PDF p.95; book p.94 armor table = PDF p.103, book p.95
+DocWagon = PDF p.104). **Navigate by the page-number header in the top-right of
+each rendered page, NOT a fixed offset.** The crunch stat tables live in the rules
+appendix (book p.85-103); the front sections (p.30-79) are mostly art ads.
+
+## Done
+- ✅ `na-weapons` — 8 Killer Accessories holdouts (book p.30-32).
+- ✅ `na-armor` — 16 designer pieces (Armor Clothing table, book p.94).
+- TODO: Fichetti Executive Action + Yamaha Pulsar (book p.33) — that page came out
+  as divider art; needs a targeted re-render to confirm where the stats sit.
 
 ## Scope
 A *street-gear* book: import the droppable crunch only; skip the setting/flavour
