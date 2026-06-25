@@ -1,0 +1,28 @@
+{
+  "id": "sr2e-neo-anarchists",
+  "title": "Shadowrun 2E: Neo-Anarchists' Guide to Real Life",
+  "description": "Street gear from The Neo-Anarchists' Guide to Real Life (FASA 7208): holdout weapons, designer armor clothing, security & surveillance gear, semiballistic transports and lifestyles, as ready-to-drop items/actors for the Shadowrun 2nd Edition system. The setting/flavour text is not imported.",
+  "version": "0.0.1",
+  "compatibility": { "minimum": "13", "verified": "13" },
+  "relationships": {
+    "systems": [
+      { "id": "sr2e", "type": "system", "compatibility": { "minimum": "0.10.0" } }
+    ]
+  },
+  "authors": [ { "name": "James Candalino" } ],
+  "packs": [
+    { "name": "na-weapons", "label": "NAGRL — Weapons", "path": "packs/na-weapons", "type": "Item", "system": "sr2e", "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" } },
+    { "name": "na-armor", "label": "NAGRL — Armor & Clothing", "path": "packs/na-armor", "type": "Item", "system": "sr2e", "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" } },
+    { "name": "na-gear", "label": "NAGRL — Gear", "path": "packs/na-gear", "type": "Item", "system": "sr2e", "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" } },
+    { "name": "na-lifestyles", "label": "NAGRL — Lifestyles", "path": "packs/na-lifestyles", "type": "Item", "system": "sr2e", "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" } },
+    { "name": "na-vehicles", "label": "NAGRL — Transports", "path": "packs/na-vehicles", "type": "Actor", "system": "sr2e", "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" } }
+  ],
+  "packFolders": [
+    {
+      "name": "Neo-Anarchists' Guide",
+      "sorting": "m",
+      "packs": ["na-weapons", "na-armor", "na-gear", "na-lifestyles", "na-vehicles"]
+    }
+  ],
+  "flags": {}
+}
