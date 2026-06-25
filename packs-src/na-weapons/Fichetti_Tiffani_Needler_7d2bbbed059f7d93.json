@@ -1,0 +1,59 @@
+{
+  "_id": "7d2bbbed059f7d93",
+  "name": "Fichetti Tiffani Needler",
+  "type": "weapon",
+  "img": "icons/svg/target.svg",
+  "system": {
+    "weaponType": "firearm",
+    "skill": "firearms",
+    "damageCode": "4L",
+    "damageType": "physical",
+    "concealability": 8,
+    "reach": 0,
+    "firingModes": {
+      "ss": false,
+      "sa": true,
+      "bf": false,
+      "fa": false
+    },
+    "ammo": {
+      "current": 4,
+      "max": 4,
+      "type": "pistol"
+    },
+    "recoilComp": 0,
+    "ranges": {
+      "short": 5,
+      "medium": 15,
+      "long": 30,
+      "extreme": 50
+    },
+    "strengthMin": 0,
+    "weight": 0.5,
+    "cost": 650,
+    "availability": "7/48 hrs",
+    "legality": "Restricted",
+    "equipped": false,
+    "accessories": [],
+    "notes": "An ultra-fashionable Self-Defender needler pistol firing needle rounds — defenders use Impact Armor. Light-pistol ranges. Street Index 3. Neo-Anarchists' Guide p.30."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1782300000000,
+    "modifiedTime": 1782300000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!7d2bbbed059f7d93"
+}
