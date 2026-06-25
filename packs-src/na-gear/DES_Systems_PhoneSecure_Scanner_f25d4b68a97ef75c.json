@@ -1,0 +1,42 @@
+{
+  "_id": "f25d4b68a97ef75c",
+  "name": "DES Systems PhoneSecure Scanner",
+  "type": "gear",
+  "img": "icons/svg/chest.svg",
+  "system": {
+    "category": "security",
+    "rating": 0,
+    "quantity": 1,
+    "weight": 0,
+    "cost": 150,
+    "availability": "",
+    "legality": "Legal",
+    "equipped": false,
+    "concealability": 0,
+    "weaponAccessory": false,
+    "linkedWeaponId": "",
+    "combatTnMod": 0,
+    "accessoryRecoilComp": 0,
+    "requiresSmartgun": false,
+    "notes": "A low-cost tap/bug detector — jack it into a phone's dataline and press TEST; green means clear, red means a tap or bug. (Does not work on cellular lines.) Neo-Anarchists' Guide p.75."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1782300000000,
+    "modifiedTime": 1782300000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!f25d4b68a97ef75c"
+}

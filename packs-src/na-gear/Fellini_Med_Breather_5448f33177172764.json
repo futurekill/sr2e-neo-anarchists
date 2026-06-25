@@ -1,0 +1,42 @@
+{
+  "_id": "5448f33177172764",
+  "name": "Fellini-Med Breather",
+  "type": "gear",
+  "img": "icons/svg/chest.svg",
+  "system": {
+    "category": "survival",
+    "rating": 0,
+    "quantity": 1,
+    "weight": 0,
+    "cost": 450,
+    "availability": "",
+    "legality": "Legal",
+    "equipped": false,
+    "concealability": 0,
+    "weaponAccessory": false,
+    "linkedWeaponId": "",
+    "combatTnMod": 0,
+    "accessoryRecoilComp": 0,
+    "requiresSmartgun": false,
+    "notes": "A nose filter/breather that cleans the air — the new model adds electronic precipitation to strip mist, smog and particulates. Geltech energy cell; replacement filters 45¥ each. Neo-Anarchists' Guide p.74."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1782300000000,
+    "modifiedTime": 1782300000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!5448f33177172764"
+}

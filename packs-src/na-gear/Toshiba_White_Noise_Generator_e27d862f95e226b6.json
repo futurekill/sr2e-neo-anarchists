@@ -1,0 +1,42 @@
+{
+  "_id": "e27d862f95e226b6",
+  "name": "Toshiba White-Noise Generator",
+  "type": "gear",
+  "img": "icons/svg/chest.svg",
+  "system": {
+    "category": "security",
+    "rating": 0,
+    "quantity": 1,
+    "weight": 0,
+    "cost": 1000,
+    "availability": "",
+    "legality": "Legal",
+    "equipped": false,
+    "concealability": 0,
+    "weaponAccessory": false,
+    "linkedWeaponId": "",
+    "combatTnMod": 0,
+    "accessoryRecoilComp": 0,
+    "requiresSmartgun": false,
+    "notes": "A miniaturized white-noise generator (fits a ring, belt buckle or pendant) that defeats subvocal/audio surveillance within a one-meter radius. Neo-Anarchists' Guide p.75."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1782300000000,
+    "modifiedTime": 1782300000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!e27d862f95e226b6"
+}

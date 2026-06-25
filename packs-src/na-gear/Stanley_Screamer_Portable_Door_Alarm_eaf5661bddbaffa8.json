@@ -1,0 +1,42 @@
+{
+  "_id": "eaf5661bddbaffa8",
+  "name": "Stanley \"Screamer\" Portable Door Alarm",
+  "type": "gear",
+  "img": "icons/svg/chest.svg",
+  "system": {
+    "category": "security",
+    "rating": 4,
+    "quantity": 1,
+    "weight": 0,
+    "cost": 450,
+    "availability": "",
+    "legality": "Legal",
+    "equipped": false,
+    "concealability": 0,
+    "weaponAccessory": false,
+    "linkedWeaponId": "",
+    "combatTnMod": 0,
+    "accessoryRecoilComp": 0,
+    "requiresSmartgun": false,
+    "notes": "A self-contained portable alarm that clips inside any door; a rating-4 vibration sensor detects the characteristic impulses of a key or forced entry and sounds off. Neo-Anarchists' Guide p.74."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1782300000000,
+    "modifiedTime": 1782300000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!eaf5661bddbaffa8"
+}

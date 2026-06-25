@@ -1,0 +1,42 @@
+{
+  "_id": "708c525fb8b1bf11",
+  "name": "Whitelaw Electric Sunglasses",
+  "type": "gear",
+  "img": "icons/svg/chest.svg",
+  "system": {
+    "category": "vision",
+    "rating": 0,
+    "quantity": 1,
+    "weight": 0,
+    "cost": 250,
+    "availability": "",
+    "legality": "Legal",
+    "equipped": false,
+    "concealability": 0,
+    "weaponAccessory": false,
+    "linkedWeaponId": "",
+    "combatTnMod": 0,
+    "accessoryRecoilComp": 0,
+    "requiresSmartgun": false,
+    "notes": "Resin-composite lenses that auto-adjust polarization — even brightness, 99.9% UV/glare/dazzle rejection in bright light (oncoming headlights too) and enhanced contrast/depth at night. Optically perfect; available at diopter strength for vision correction. Neo-Anarchists' Guide p.73."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1782300000000,
+    "modifiedTime": 1782300000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!708c525fb8b1bf11"
+}
