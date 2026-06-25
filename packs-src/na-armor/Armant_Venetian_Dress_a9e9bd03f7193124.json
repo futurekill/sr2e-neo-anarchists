@@ -1,0 +1,37 @@
+{
+  "_id": "a9e9bd03f7193124",
+  "name": "Armanté \"Venetian\" Dress",
+  "type": "armor",
+  "img": "icons/svg/shield.svg",
+  "system": {
+    "ballistic": 1,
+    "impact": 0,
+    "concealability": 14,
+    "weight": 0.5,
+    "cost": 3500,
+    "availability": "",
+    "legality": "Legal",
+    "equipped": false,
+    "isLayered": true,
+    "notes": "Armanté designer armor clothing. Neo-Anarchists' Guide p.94."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1782300000000,
+    "modifiedTime": 1782300000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!a9e9bd03f7193124"
+}

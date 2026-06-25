@@ -1,0 +1,37 @@
+{
+  "_id": "924fd4052b49c2fc",
+  "name": "Zoé \"Retrovision\" Skirt Suit",
+  "type": "armor",
+  "img": "icons/svg/shield.svg",
+  "system": {
+    "ballistic": 3,
+    "impact": 1,
+    "concealability": 13,
+    "weight": 1.5,
+    "cost": 2500,
+    "availability": "",
+    "legality": "Legal",
+    "equipped": false,
+    "isLayered": true,
+    "notes": "Zoé designer armor clothing. Neo-Anarchists' Guide p.94."
+  },
+  "effects": [],
+  "flags": {},
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1782300000000,
+    "modifiedTime": 1782300000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!924fd4052b49c2fc"
+}
