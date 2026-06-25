@@ -1,0 +1,62 @@
+{
+  "_id": "b3f89594207926dc",
+  "name": "General Dynamics SV250 Semiballistic",
+  "type": "vehicle",
+  "img": "icons/svg/explosion.svg",
+  "system": {
+    "vehicleType": "aircraft",
+    "skill": "aircraft",
+    "handling": 6,
+    "speed": 10000,
+    "acceleration": 0,
+    "body": 2,
+    "armor": 1,
+    "signature": 1,
+    "pilot": 4,
+    "sensor": 0,
+    "cargo": 0,
+    "load": 0,
+    "seating": "Crew 2-8 + 350 passengers",
+    "cost": 750000000,
+    "availability": "",
+    "conditionMonitor": {
+      "value": 0,
+      "max": 10
+    },
+    "autonav": 4,
+    "notes": "<p>A semiballistic airliner — ~110 m long, 35 m wingspan, ~300,000 kg, carrying 350 passengers on sub-orbital hops.</p><p><em>Cruise 10000 / max 29000 kph. Body 2 (6 structural). Min air speed 250 kph. Cybernetic vehicle control standard. Neo-Anarchists' Guide p.90.</em></p>"
+  },
+  "prototypeToken": {
+    "name": "General Dynamics SV250 Semiballistic",
+    "displayName": 20,
+    "actorLink": false,
+    "width": 3,
+    "height": 2,
+    "texture": {
+      "src": "icons/svg/explosion.svg",
+      "scaleX": 1,
+      "scaleY": 1
+    },
+    "disposition": 0,
+    "displayBars": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1782300000000,
+    "modifiedTime": 1782300000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!actors!b3f89594207926dc"
+}

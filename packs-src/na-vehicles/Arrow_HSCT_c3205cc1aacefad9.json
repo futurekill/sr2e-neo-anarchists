@@ -1,0 +1,62 @@
+{
+  "_id": "c3205cc1aacefad9",
+  "name": "\"Arrow\" HSCT",
+  "type": "vehicle",
+  "img": "icons/svg/explosion.svg",
+  "system": {
+    "vehicleType": "aircraft",
+    "skill": "aircraft",
+    "handling": 5,
+    "speed": 1500,
+    "acceleration": 0,
+    "body": 4,
+    "armor": 1,
+    "signature": 2,
+    "pilot": 4,
+    "sensor": 0,
+    "cargo": 0,
+    "load": 0,
+    "seating": "Crew 2-8 + ~300 passengers",
+    "cost": 10000000,
+    "availability": "",
+    "conditionMonitor": {
+      "value": 0,
+      "max": 10
+    },
+    "autonav": 4,
+    "notes": "<p>A High-Speed Civil Transport — 95 m long, 40 m wingspan, ~335,000 kg, carrying about 300 passengers at high subsonic/supersonic cruise.</p><p><em>Cruise 1500 / max 2900 kph. Body 4 (8 structural). Min air speed 100 kph. Cybernetic vehicle control standard. Neo-Anarchists' Guide p.91.</em></p>"
+  },
+  "prototypeToken": {
+    "name": "\"Arrow\" HSCT",
+    "displayName": 20,
+    "actorLink": false,
+    "width": 3,
+    "height": 2,
+    "texture": {
+      "src": "icons/svg/explosion.svg",
+      "scaleX": 1,
+      "scaleY": 1
+    },
+    "disposition": 0,
+    "displayBars": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1782300000000,
+    "modifiedTime": 1782300000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!actors!c3205cc1aacefad9"
+}
