@@ -29,8 +29,8 @@ Cross-check holdout weapons / gear against the system, **Street Samurai Catalog*
 and **Fields of Fire** packs before transcribing — some pieces may already exist.
 
 ## Build
-`packs-src/` JSON → `npm run build-packs [name]` → `packs/` (committed, like the
-other content modules). `npm run validate` first.
+`packs-src/` JSON → `npm run build-packs [name]` → `packs/` (gitignored build
+artifact — rebuild after editing sources). `npm run validate` first.
 
 ## Copyright
 *Neo-Anarchists' Guide* / *Shadowrun* are © FASA and rights holders. Personal
