@@ -2,7 +2,7 @@
   "_id": "708c525fb8b1bf11",
   "name": "Whitelaw Electric Sunglasses",
   "type": "gear",
-  "img": "icons/svg/chest.svg",
+  "img": "modules/sr2e-neo-anarchists/assets/item_icons/gear/whitelaw-electric-sunglasses.webp",
   "system": {
     "category": "vision",
     "rating": 0,

@@ -2,7 +2,7 @@
   "_id": "ede31d2b3dd4ee7b",
   "name": "Morrissey Elite",
   "type": "weapon",
-  "img": "icons/svg/target.svg",
+  "img": "modules/sr2e-neo-anarchists/assets/item_icons/weapon/morrissey-elite.webp",
   "system": {
     "weaponType": "firearm",
     "skill": "firearms",

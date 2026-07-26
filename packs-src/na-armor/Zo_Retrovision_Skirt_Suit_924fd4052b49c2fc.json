@@ -2,7 +2,7 @@
   "_id": "924fd4052b49c2fc",
   "name": "Zoé \"Retrovision\" Skirt Suit",
   "type": "armor",
-  "img": "icons/svg/shield.svg",
+  "img": "modules/sr2e-neo-anarchists/assets/item_icons/armor/zoe-retrovision-skirt-suit.webp",
   "system": {
     "ballistic": 3,
     "impact": 1,

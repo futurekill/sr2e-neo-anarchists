@@ -2,7 +2,7 @@
   "_id": "280d305cad633212",
   "name": "Vashon Island \"Hunt Ball\" Slacks",
   "type": "armor",
-  "img": "icons/svg/shield.svg",
+  "img": "modules/sr2e-neo-anarchists/assets/item_icons/armor/vashon-island-hunt-ball-slacks.webp",
   "system": {
     "ballistic": 1,
     "impact": 1,

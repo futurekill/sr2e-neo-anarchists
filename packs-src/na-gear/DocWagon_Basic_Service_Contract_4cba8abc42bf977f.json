@@ -2,7 +2,7 @@
   "_id": "4cba8abc42bf977f",
   "name": "DocWagon Basic Service Contract",
   "type": "gear",
-  "img": "icons/svg/regen.svg",
+  "img": "modules/sr2e-neo-anarchists/assets/item_icons/gear/docwagon-basic-service-contract.webp",
   "system": {
     "category": "service",
     "rating": 0,

@@ -2,7 +2,7 @@
   "_id": "f3ad0620a67c87be",
   "name": "Fujicorp Remote Ignition",
   "type": "gear",
-  "img": "icons/svg/chest.svg",
+  "img": "modules/sr2e-neo-anarchists/assets/item_icons/gear/fujicorp-remote-ignition.webp",
   "system": {
     "category": "vehicle",
     "rating": 0,

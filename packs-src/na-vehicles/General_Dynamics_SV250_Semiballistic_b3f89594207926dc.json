@@ -2,7 +2,7 @@
   "_id": "b3f89594207926dc",
   "name": "General Dynamics SV250 Semiballistic",
   "type": "vehicle",
-  "img": "icons/svg/explosion.svg",
+  "img": "modules/sr2e-neo-anarchists/assets/vehicle_portraits/general-dynamics-sv250-semiballistic.webp",
   "system": {
     "vehicleType": "aircraft",
     "skill": "aircraft",
@@ -33,12 +33,13 @@
     "width": 3,
     "height": 2,
     "texture": {
-      "src": "icons/svg/explosion.svg",
+      "src": "modules/sr2e-neo-anarchists/assets/vehicle_portraits/general-dynamics-sv250-semiballistic.webp",
       "scaleX": 1,
       "scaleY": 1
     },
     "disposition": 0,
-    "displayBars": 0
+    "displayBars": 0,
+    "lockRotation": false
   },
   "effects": [],
   "folder": null,

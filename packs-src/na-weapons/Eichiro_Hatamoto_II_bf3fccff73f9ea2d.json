@@ -2,7 +2,7 @@
   "_id": "bf3fccff73f9ea2d",
   "name": "Eichiro Hatamoto II",
   "type": "weapon",
-  "img": "icons/svg/target.svg",
+  "img": "modules/sr2e-neo-anarchists/assets/item_icons/weapon/eichiro-hatamoto-ii.webp",
   "system": {
     "weaponType": "firearm",
     "skill": "firearms",

@@ -2,7 +2,7 @@
   "_id": "8fe64906827ed78f",
   "name": "Armanté \"Ancien\" Shawl",
   "type": "armor",
-  "img": "icons/svg/shield.svg",
+  "img": "modules/sr2e-neo-anarchists/assets/item_icons/armor/armante-ancien-shawl.webp",
   "system": {
     "ballistic": 1,
     "impact": 0,

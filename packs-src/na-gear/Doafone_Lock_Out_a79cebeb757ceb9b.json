@@ -2,7 +2,7 @@
   "_id": "a79cebeb757ceb9b",
   "name": "Doafone Lock-Out",
   "type": "gear",
-  "img": "icons/svg/chest.svg",
+  "img": "modules/sr2e-neo-anarchists/assets/item_icons/gear/doafone-lock-out.webp",
   "system": {
     "category": "electronics",
     "rating": 0,

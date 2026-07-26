@@ -2,7 +2,7 @@
   "_id": "6084bb57b6f9c0b5",
   "name": "Morrissey Alta",
   "type": "weapon",
-  "img": "icons/svg/target.svg",
+  "img": "modules/sr2e-neo-anarchists/assets/item_icons/weapon/morrissey-alta.webp",
   "system": {
     "weaponType": "firearm",
     "skill": "firearms",

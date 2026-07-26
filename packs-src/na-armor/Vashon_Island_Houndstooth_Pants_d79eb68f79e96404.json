@@ -2,7 +2,7 @@
   "_id": "d79eb68f79e96404",
   "name": "Vashon Island \"Houndstooth\" Pants",
   "type": "armor",
-  "img": "icons/svg/shield.svg",
+  "img": "modules/sr2e-neo-anarchists/assets/item_icons/armor/vashon-island-houndstooth-pants.webp",
   "system": {
     "ballistic": 1,
     "impact": 1,

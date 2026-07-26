@@ -2,7 +2,7 @@
   "_id": "8ca5967cd92cf2bb",
   "name": "Corona \"Private Eye\" Computer Display Glasses",
   "type": "gear",
-  "img": "icons/svg/chest.svg",
+  "img": "modules/sr2e-neo-anarchists/assets/item_icons/gear/corona-private-eye-computer-display-glasses.webp",
   "system": {
     "category": "electronics",
     "rating": 0,

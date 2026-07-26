@@ -2,7 +2,7 @@
   "_id": "ebd2d2a667f34125",
   "name": "Vashon Island \"Hunt Ball\" Jacket",
   "type": "armor",
-  "img": "icons/svg/shield.svg",
+  "img": "modules/sr2e-neo-anarchists/assets/item_icons/armor/vashon-island-hunt-ball-jacket.webp",
   "system": {
     "ballistic": 1,
     "impact": 2,

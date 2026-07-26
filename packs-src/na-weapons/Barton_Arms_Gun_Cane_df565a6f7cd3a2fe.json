@@ -2,7 +2,7 @@
   "_id": "df565a6f7cd3a2fe",
   "name": "Barton Arms Gun Cane",
   "type": "weapon",
-  "img": "icons/svg/target.svg",
+  "img": "modules/sr2e-neo-anarchists/assets/item_icons/weapon/barton-arms-gun-cane.webp",
   "system": {
     "weaponType": "firearm",
     "skill": "firearms",

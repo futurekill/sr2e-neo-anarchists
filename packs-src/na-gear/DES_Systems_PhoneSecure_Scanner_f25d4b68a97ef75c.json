@@ -2,7 +2,7 @@
   "_id": "f25d4b68a97ef75c",
   "name": "DES Systems PhoneSecure Scanner",
   "type": "gear",
-  "img": "icons/svg/chest.svg",
+  "img": "modules/sr2e-neo-anarchists/assets/item_icons/gear/des-systems-phonesecure-scanner.webp",
   "system": {
     "category": "security",
     "rating": 0,

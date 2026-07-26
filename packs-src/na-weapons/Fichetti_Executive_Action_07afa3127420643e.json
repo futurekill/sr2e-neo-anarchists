@@ -2,7 +2,7 @@
   "_id": "07afa3127420643e",
   "name": "Fichetti Executive Action",
   "type": "weapon",
-  "img": "icons/svg/target.svg",
+  "img": "modules/sr2e-neo-anarchists/assets/item_icons/weapon/fichetti-executive-action.webp",
   "system": {
     "weaponType": "firearm",
     "skill": "firearms",

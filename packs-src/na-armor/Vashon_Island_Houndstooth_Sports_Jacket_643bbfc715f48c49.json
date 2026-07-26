@@ -2,7 +2,7 @@
   "_id": "643bbfc715f48c49",
   "name": "Vashon Island \"Houndstooth\" Sports Jacket",
   "type": "armor",
-  "img": "icons/svg/shield.svg",
+  "img": "modules/sr2e-neo-anarchists/assets/item_icons/armor/vashon-island-houndstooth-sports-jacket.webp",
   "system": {
     "ballistic": 1,
     "impact": 2,

@@ -2,7 +2,7 @@
   "_id": "cf790469bde1515f",
   "name": "Armanté \"Executive Suite\" Tuxedo",
   "type": "armor",
-  "img": "icons/svg/shield.svg",
+  "img": "modules/sr2e-neo-anarchists/assets/item_icons/armor/armante-executive-suite-tuxedo.webp",
   "system": {
     "ballistic": 3,
     "impact": 1,

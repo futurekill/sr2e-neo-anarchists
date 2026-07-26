@@ -2,7 +2,7 @@
   "_id": "a9e9bd03f7193124",
   "name": "Armanté \"Venetian\" Dress",
   "type": "armor",
-  "img": "icons/svg/shield.svg",
+  "img": "modules/sr2e-neo-anarchists/assets/item_icons/armor/armante-venetian-dress.webp",
   "system": {
     "ballistic": 1,
     "impact": 0,

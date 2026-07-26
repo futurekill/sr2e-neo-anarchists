@@ -2,7 +2,7 @@
   "_id": "64e68333c13f5b5c",
   "name": "Zoé \"Country Club\" Blazer",
   "type": "armor",
-  "img": "icons/svg/shield.svg",
+  "img": "modules/sr2e-neo-anarchists/assets/item_icons/armor/zoe-country-club-blazer.webp",
   "system": {
     "ballistic": 3,
     "impact": 1,

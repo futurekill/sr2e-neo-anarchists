@@ -2,7 +2,7 @@
   "_id": "3b5e4d40241e6a99",
   "name": "Vashon Island \"Hunt Ball\" Skirt",
   "type": "armor",
-  "img": "icons/svg/shield.svg",
+  "img": "modules/sr2e-neo-anarchists/assets/item_icons/armor/vashon-island-hunt-ball-skirt.webp",
   "system": {
     "ballistic": 1,
     "impact": 1,

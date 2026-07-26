@@ -2,7 +2,7 @@
   "_id": "7d2bbbed059f7d93",
   "name": "Fichetti Tiffani Needler",
   "type": "weapon",
-  "img": "icons/svg/target.svg",
+  "img": "modules/sr2e-neo-anarchists/assets/item_icons/weapon/fichetti-tiffani-needler.webp",
   "system": {
     "weaponType": "firearm",
     "skill": "firearms",

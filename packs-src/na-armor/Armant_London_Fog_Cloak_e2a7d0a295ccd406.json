@@ -2,7 +2,7 @@
   "_id": "e2a7d0a295ccd406",
   "name": "Armanté \"London Fog\" Cloak",
   "type": "armor",
-  "img": "icons/svg/shield.svg",
+  "img": "modules/sr2e-neo-anarchists/assets/item_icons/armor/armante-london-fog-cloak.webp",
   "system": {
     "ballistic": 2,
     "impact": 2,

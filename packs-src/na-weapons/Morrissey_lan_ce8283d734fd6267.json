@@ -2,7 +2,7 @@
   "_id": "ce8283d734fd6267",
   "name": "Morrissey Élan",
   "type": "weapon",
-  "img": "icons/svg/target.svg",
+  "img": "modules/sr2e-neo-anarchists/assets/item_icons/weapon/morrissey-elan.webp",
   "system": {
     "weaponType": "firearm",
     "skill": "firearms",

@@ -2,7 +2,7 @@
   "_id": "7e07dfc492edd877",
   "name": "Zoé \"Highland Laird\" Kilt",
   "type": "armor",
-  "img": "icons/svg/shield.svg",
+  "img": "modules/sr2e-neo-anarchists/assets/item_icons/armor/zoe-highland-laird-kilt.webp",
   "system": {
     "ballistic": 4,
     "impact": 2,

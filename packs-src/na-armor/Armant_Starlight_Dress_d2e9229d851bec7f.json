@@ -2,7 +2,7 @@
   "_id": "d2e9229d851bec7f",
   "name": "Armanté \"Starlight\" Dress",
   "type": "armor",
-  "img": "icons/svg/shield.svg",
+  "img": "modules/sr2e-neo-anarchists/assets/item_icons/armor/armante-starlight-dress.webp",
   "system": {
     "ballistic": 1,
     "impact": 1,

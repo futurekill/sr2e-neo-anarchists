@@ -2,7 +2,7 @@
   "_id": "eaf5661bddbaffa8",
   "name": "Stanley \"Screamer\" Portable Door Alarm",
   "type": "gear",
-  "img": "icons/svg/chest.svg",
+  "img": "modules/sr2e-neo-anarchists/assets/item_icons/gear/stanley-screamer-portable-door-alarm.webp",
   "system": {
     "category": "security",
     "rating": 4,

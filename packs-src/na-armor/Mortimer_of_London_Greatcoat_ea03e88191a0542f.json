@@ -2,7 +2,7 @@
   "_id": "ea03e88191a0542f",
   "name": "Mortimer of London \"Greatcoat\"",
   "type": "armor",
-  "img": "icons/svg/shield.svg",
+  "img": "modules/sr2e-neo-anarchists/assets/item_icons/armor/mortimer-of-london-greatcoat.webp",
   "system": {
     "ballistic": 4,
     "impact": 2,

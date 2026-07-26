@@ -2,7 +2,7 @@
   "_id": "1650826f1f441079",
   "name": "Barton Arms Bracer",
   "type": "weapon",
-  "img": "icons/svg/target.svg",
+  "img": "modules/sr2e-neo-anarchists/assets/item_icons/weapon/barton-arms-bracer.webp",
   "system": {
     "weaponType": "firearm",
     "skill": "firearms",
