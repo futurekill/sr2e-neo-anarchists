@@ -1,5 +1,18 @@
 # Changelog
 
+## 0.3.0 — 2026-07-26
+
+### Added
+- Custom art for all 42 documents, replacing Foundry's stock icons:
+  - designer armour as couture pieces on mannequins;
+  - gadgets and DocWagon cards as glossy retail products;
+  - concealed hold-out weapons with only a subtle tell;
+  - the coffin-hotel lifestyle;
+  - top-down tokens for the three high-speed airliners.
+
+### Fixed
+- Releases no longer package `.DS_Store` files.
+
 ## 0.2.0 — Real life
 
 Completes the catalog — **42 items across 4 packs**, render-verified:
