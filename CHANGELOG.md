@@ -1,5 +1,10 @@
 # Changelog
 
+## Unreleased
+
+### Fixed
+- **Yamaha Pulsar range brackets**: 5/10/12/15 m, the core book's Taser row (p.88; its entry is typed Taser, p.33), not 5/10/15/20. Copies already on characters keep the old brackets; drag the weapon in again.
+
 ## 0.3.0 — 2026-07-26
 
 ### Added

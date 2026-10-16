@@ -13,7 +13,7 @@ const idFor = (s) => createHash("sha1").update("na-weapon:" + s).digest("hex").s
 
 const LIGHT = { short: 5, medium: 15, long: 30, extreme: 50 };
 const HEAVY = { short: 5, medium: 20, long: 40, extreme: 60 };
-const TASER = { short: 5, medium: 10, long: 15, extreme: 20 };
+const TASER = { short: 5, medium: 10, long: 12, extreme: 15 };   // core p.88 Taser row
 
 function weapon(w) {
   const _id = idFor(w.name);
