@@ -56,7 +56,7 @@ const WEAPONS = [
   { name: "Raecor Sting", dmg: "4M", conceal: 9, ammo: 5, modes: "ss", ranges: LIGHT, weight: 0.25, cost: 375, avail: "10/7 days", si: 2, page: 32,
     notes: "A \"lemon-squeezer\" holdout fired from between the fingers — mini-flechette rounds; the polymer body is undetectable by standard metal scanners." },
   { name: "Eichiro Hatamoto II", dmg: "8S", conceal: 6, ammo: 1, modes: "ss", ranges: SHOTGUN, weight: 2.5, cost: 1200, avail: "12/7 days", si: 2, page: 32,
-    notes: "A polymer single-shot personal-defense pistol chambered for shotgun rounds, with a wraparound grip and wrist brace (undetectable by metal scanners). Damage: the SR2 code the book prints, "3M3 (8S)" → 8S." },
+    notes: "A polymer single-shot personal-defense pistol chambered for shotgun rounds, with a wraparound grip and wrist brace (undetectable by metal scanners). Damage: the SR2 code the book prints, \"3M3 (8S)\" → 8S." },
   { name: "Fichetti Executive Action", dmg: "6L", conceal: 6, ammo: 24, modes: "sa,bf", ranges: LIGHT, weight: 1.5, cost: 1150, avail: "14/7 days", si: 3, page: 33,
     notes: "A light pistol whose single-stroke trigger throws a tight 3-round burst at ~50 rounds/sec, so the muzzle has no time to climb — the tightest autofire grouping on the market. 24-round clip. Book prints the damage as \"4M2 (6L)\"; recorded as the 6L single-shot value." },
   { name: "Yamaha Pulsar", dmg: "10S", dmgType: "stun", conceal: 5, ammo: 4, ammoType: "taser", modes: "sa", ranges: TASER, weight: 2, cost: 1350, avail: "12/7 days", si: 2, page: 33,
