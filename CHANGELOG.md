@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased
+## 0.3.2 — 2026-10-16
 
 ### Fixed — every weapon checked against the book (pp.30–33)
 - **Damage codes:** the book prints each code twice, the 1st-edition code and the SR2
