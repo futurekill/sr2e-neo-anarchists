@@ -1,5 +1,23 @@
 # Changelog
 
+## Unreleased
+
+### Fixed — every weapon checked against the book (pp.30–33)
+- **Damage codes:** the book prints each code twice, the 1st-edition code and the SR2
+  code in brackets ("4L1 (5L)"). Six weapons had the 1st-edition code: Tiffani Needler
+  **5L**, Barton Arms Bracer and Gun Cane **6L**, Morrissey Élan **5L**, Morrissey
+  Elite and Alta **9M** (they were 6M), Eichiro Hatamoto II **8S**.
+- **Eichiro Hatamoto II** was wrong almost throughout: it's a single-shot (1 round)
+  shotgun-pistol, concealability 6, 2.5 kg, 1,200¥ (was 5 rounds, 0.5 kg, 2,000¥), with
+  shotgun ranges (10/20/50/100 m).
+- **Barton Arms Bracer:** concealability 7, 0.3 kg. **Gun Cane:** 1 kg. **Raecor
+  Sting:** 375¥.
+- **Street Index:** every weapon had none (so it sold at list price on the street); each
+  now has the printed index.
+- With sr2e 0.104.3 or later, copies already in your world get the new damage, Hatamoto
+  stats and ranges when it loads (unless you changed that stat). Prices and weights of
+  copies you already own don't change.
+
 ## 0.3.1 — 2026-10-16
 
 ### Fixed

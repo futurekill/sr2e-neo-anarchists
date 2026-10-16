@@ -30,12 +30,13 @@
     },
     "strengthMin": 0,
     "weight": 0.25,
-    "cost": 350,
+    "cost": 375,
     "availability": "10/7 days",
     "legality": "Restricted",
     "equipped": false,
     "accessories": [],
-    "notes": "A \"lemon-squeezer\" holdout fired from between the fingers — mini-flechette rounds; the polymer body is undetectable by standard metal scanners. Street Index 3. Neo-Anarchists' Guide p.32."
+    "notes": "A \"lemon-squeezer\" holdout fired from between the fingers — mini-flechette rounds; the polymer body is undetectable by standard metal scanners. Street Index 2. Neo-Anarchists' Guide p.32.",
+    "streetIndex": 2
   },
   "effects": [],
   "flags": {},

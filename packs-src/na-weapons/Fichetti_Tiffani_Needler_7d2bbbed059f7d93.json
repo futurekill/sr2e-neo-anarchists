@@ -6,7 +6,7 @@
   "system": {
     "weaponType": "firearm",
     "skill": "firearms",
-    "damageCode": "4L",
+    "damageCode": "5L",
     "damageType": "physical",
     "concealability": 8,
     "reach": 0,
@@ -35,7 +35,8 @@
     "legality": "Restricted",
     "equipped": false,
     "accessories": [],
-    "notes": "An ultra-fashionable Self-Defender needler pistol firing needle rounds — defenders use Impact Armor. Light-pistol ranges. Street Index 3. Neo-Anarchists' Guide p.30."
+    "notes": "An ultra-fashionable Self-Defender needler pistol firing needle rounds — defenders use Impact Armor. Light-pistol ranges. Street Index 2. Neo-Anarchists' Guide p.30.",
+    "streetIndex": 2
   },
   "effects": [],
   "flags": {},

@@ -35,7 +35,8 @@
     "legality": "Restricted",
     "equipped": false,
     "accessories": [],
-    "notes": "A light pistol whose single-stroke trigger throws a tight 3-round burst at ~50 rounds/sec, so the muzzle has no time to climb — the tightest autofire grouping on the market. 24-round clip. Book prints the damage as \"4M2 (6L)\"; recorded as the 6L single-shot value. Street Index 3. Neo-Anarchists' Guide p.33."
+    "notes": "A light pistol whose single-stroke trigger throws a tight 3-round burst at ~50 rounds/sec, so the muzzle has no time to climb — the tightest autofire grouping on the market. 24-round clip. Book prints the damage as \"4M2 (6L)\"; recorded as the 6L single-shot value. Street Index 3. Neo-Anarchists' Guide p.33.",
+    "streetIndex": 3
   },
   "effects": [],
   "flags": {},
