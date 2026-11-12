@@ -9,14 +9,14 @@
     "handling": 5,
     "speed": 10000,
     "acceleration": 0,
-    "body": 2,
-    "armor": 0,
+    "body": 5,
+    "armor": 6,
     "signature": 1,
-    "pilot": 3,
+    "pilot": 0,
     "sensor": 0,
     "cargo": 0,
     "load": 0,
-    "seating": "Crew 2-8 + ~350 passengers",
+    "seating": "Crew 2 flight deck + 4-8 cabin; 150 passengers",
     "cost": 100000000,
     "availability": "",
     "conditionMonitor": {
@@ -24,7 +24,7 @@
       "max": 10
     },
     "autonav": 3,
-    "notes": "<p>A suborbital transport of similar dimensions to the semiballistic — same crew and passenger load, slightly lower ceiling.</p><p><em>Cruise 10000 / max 24000 kph. Body 2 (6 structural). Min air speed 200 kph. Cybernetic vehicle control standard. Neo-Anarchists' Guide p.91.</em></p>"
+    "notes": "<p>A suborbital transport of similar dimensions to the semiballistic — same crew and passenger load, slightly lower ceiling.</p><p><em>Cruise 10000 / max 24000 kph. Body 5, Armor 2 (6) as printed (the SRII-scale armor in parentheses is used). Min air speed 200 kph. Cybernetic vehicle control standard. Neo-Anarchists' Guide p.91.</em></p>"
   },
   "prototypeToken": {
     "name": "\"China Clipper\" Suborbital",

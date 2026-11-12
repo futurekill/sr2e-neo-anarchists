@@ -1,3 +1,7 @@
+// ⚠ DO NOT RE-RUN: packs-src is the source of truth since the art pass (this generator writes a placeholder img) and
+// the vehicle stats audit (2026-11-11): the table below misread the stat lines (book p.90-91 print Body 5/5/4 and
+// Armor "2 (6)", "2 (6)", "1 (3)", not a structural Body), and seating/APilot changed; system docs/VEHICLE-AUDIT.md.
+// Kept for reference only. Book p.90-91 = PDF p.99-100 (offset +9 here).
 // Generate the Neo-Anarchists' Guide "Planes and Crews" transports (book p.90-91)
 // as system `vehicle` actors into packs-src/na-vehicles. These are narrative-scale
 // civilian airliners (semiballistic / suborbital / HSCT) — speeds are the book's

@@ -14,7 +14,7 @@ Actor pack). The setting/flavour text is **out of scope** (see `docs/PLAN.md`).
 
 ## Source material — SCANNED, no text layer
 Render pages and read them (`pdftoppm -r 150 -png`); tesseract is unreliable on
-these scans. **Offset: PDF page = book page + 1.** Verify every stat against the
+these scans. **Offset: PDF page = book page + 1 at the front; +9 by the TRAVEL/CASH chapters (book p.82 = PDF 91, p.90 = PDF 99; verified 2026-11-11) — check the folio on the render.** Verify every stat against the
 render; when a value is illegible, ask for a high-res capture rather than guess.
 `_work/` is git-ignored.
 

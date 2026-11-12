@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.3.3 — 2026-11-11
+
+### Fixed
+- **Vehicle stats audit** (system docs/VEHICLE-AUDIT.md): the SV250, China Clipper and Arrow had misread stat lines.
+  Body 5/5/4 and Armor 6/6/3 (the book prints "2 (6)", "1 (3)"); the SV250 and Clipper carry 150 passengers, not 350;
+  autopilot in Autonav.
+
 ## 0.3.2 — 2026-10-16
 
 ### Fixed — every weapon checked against the book (pp.30–33)
