@@ -10,7 +10,7 @@ A gear catalog, not a rules/flavour book. It ships the droppable crunch across
 five packs — `na-weapons` (holdout pieces), `na-armor` (designer armor clothing),
 `na-gear` (security/surveillance gadgets, credsticks), `na-lifestyles` (coffin
 hotels, DocWagon contracts), `na-vehicles` (semiballistic/suborbital transports,
-Actor pack). The setting/flavour text is **out of scope** (see `docs/PLAN.md`).
+Actor pack). The setting/flavour text is **out of scope** (see `docs/archive/plans/PLAN.md`).
 
 ## Source material — SCANNED, no text layer
 Render pages and read them (`pdftoppm -r 150 -png`); tesseract is unreliable on
