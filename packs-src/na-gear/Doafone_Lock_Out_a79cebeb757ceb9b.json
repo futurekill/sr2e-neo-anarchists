@@ -18,7 +18,11 @@
     "combatTnMod": 0,
     "accessoryRecoilComp": 0,
     "requiresSmartgun": false,
-    "notes": "A call-blocker for cellular/landline phones — \"exclusion\" mode accepts calls only from approved numbers and disconnects the rest. Works with major cellular designs and modems. Neo-Anarchists' Guide p.75."
+    "notes": "A call-blocker for cellular/landline phones — \"exclusion\" mode accepts calls only from approved numbers and disconnects the rest. Works with major cellular designs and modems. Neo-Anarchists' Guide p.75.",
+    "citation": {
+      "book": "naw",
+      "page": "75"
+    }
   },
   "effects": [],
   "flags": {},

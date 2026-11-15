@@ -18,7 +18,11 @@
     "combatTnMod": 0,
     "accessoryRecoilComp": 0,
     "requiresSmartgun": false,
-    "notes": "Partially-mirrored glasses that display a connected computer or telecom screen visible only to the wearer, blanking the device's own display for privacy. Neo-Anarchists' Guide p.74."
+    "notes": "Partially-mirrored glasses that display a connected computer or telecom screen visible only to the wearer, blanking the device's own display for privacy. Neo-Anarchists' Guide p.74.",
+    "citation": {
+      "book": "naw",
+      "page": "74"
+    }
   },
   "effects": [],
   "flags": {},

@@ -18,7 +18,11 @@
     "combatTnMod": 0,
     "accessoryRecoilComp": 0,
     "requiresSmartgun": false,
-    "notes": "A self-contained portable alarm that clips inside any door; a rating-4 vibration sensor detects the characteristic impulses of a key or forced entry and sounds off. Neo-Anarchists' Guide p.74."
+    "notes": "A self-contained portable alarm that clips inside any door; a rating-4 vibration sensor detects the characteristic impulses of a key or forced entry and sounds off. Neo-Anarchists' Guide p.74.",
+    "citation": {
+      "book": "naw",
+      "page": "74"
+    }
   },
   "effects": [],
   "flags": {},

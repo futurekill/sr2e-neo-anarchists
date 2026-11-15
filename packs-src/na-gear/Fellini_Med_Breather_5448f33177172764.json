@@ -18,7 +18,11 @@
     "combatTnMod": 0,
     "accessoryRecoilComp": 0,
     "requiresSmartgun": false,
-    "notes": "A nose filter/breather that cleans the air — the new model adds electronic precipitation to strip mist, smog and particulates. Geltech energy cell; replacement filters 45¥ each. Neo-Anarchists' Guide p.74."
+    "notes": "A nose filter/breather that cleans the air — the new model adds electronic precipitation to strip mist, smog and particulates. Geltech energy cell; replacement filters 45¥ each. Neo-Anarchists' Guide p.74.",
+    "citation": {
+      "book": "naw",
+      "page": "74"
+    }
   },
   "effects": [],
   "flags": {},

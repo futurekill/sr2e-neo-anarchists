@@ -18,7 +18,11 @@
     "combatTnMod": 0,
     "accessoryRecoilComp": 0,
     "requiresSmartgun": false,
-    "notes": "One free resuscitation per year and a 10% discount on acute and extended care; HTR base cost reduced to 2,500¥. Other HTR-associated costs (expenses, death compensation) unchanged. Annual fee. Neo-Anarchists' Guide p.43."
+    "notes": "One free resuscitation per year and a 10% discount on acute and extended care; HTR base cost reduced to 2,500¥. Other HTR-associated costs (expenses, death compensation) unchanged. Annual fee. Neo-Anarchists' Guide p.43.",
+    "citation": {
+      "book": "naw",
+      "page": "43"
+    }
   },
   "effects": [],
   "flags": {},

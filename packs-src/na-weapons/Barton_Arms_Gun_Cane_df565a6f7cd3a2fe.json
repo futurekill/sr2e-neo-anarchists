@@ -36,7 +36,11 @@
     "equipped": false,
     "accessories": [],
     "notes": "A walking cane with a hidden single-shot pistol — Hold-Out Pistol range. Concealability 2 for the whole cane, 9 to spot the mechanism in it (also usable as a club). Street Index 2. Neo-Anarchists' Guide p.30.",
-    "streetIndex": 2
+    "streetIndex": 2,
+    "citation": {
+      "book": "naw",
+      "page": "30"
+    }
   },
   "effects": [],
   "flags": {},

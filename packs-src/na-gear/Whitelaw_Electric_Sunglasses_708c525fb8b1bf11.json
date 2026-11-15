@@ -18,7 +18,11 @@
     "combatTnMod": 0,
     "accessoryRecoilComp": 0,
     "requiresSmartgun": false,
-    "notes": "Resin-composite lenses that auto-adjust polarization — even brightness, 99.9% UV/glare/dazzle rejection in bright light (oncoming headlights too) and enhanced contrast/depth at night. Optically perfect; available at diopter strength for vision correction. Neo-Anarchists' Guide p.73."
+    "notes": "Resin-composite lenses that auto-adjust polarization — even brightness, 99.9% UV/glare/dazzle rejection in bright light (oncoming headlights too) and enhanced contrast/depth at night. Optically perfect; available at diopter strength for vision correction. Neo-Anarchists' Guide p.73.",
+    "citation": {
+      "book": "naw",
+      "page": "73"
+    }
   },
   "effects": [],
   "flags": {},

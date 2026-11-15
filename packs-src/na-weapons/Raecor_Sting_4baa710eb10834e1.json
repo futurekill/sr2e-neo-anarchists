@@ -36,7 +36,11 @@
     "equipped": false,
     "accessories": [],
     "notes": "A \"lemon-squeezer\" holdout fired from between the fingers — mini-flechette rounds; the polymer body is undetectable by standard metal scanners. Street Index 2. Neo-Anarchists' Guide p.32.",
-    "streetIndex": 2
+    "streetIndex": 2,
+    "citation": {
+      "book": "naw",
+      "page": "32"
+    }
   },
   "effects": [],
   "flags": {},

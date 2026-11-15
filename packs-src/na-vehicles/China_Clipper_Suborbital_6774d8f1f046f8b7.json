@@ -24,7 +24,11 @@
       "max": 10
     },
     "autonav": 3,
-    "notes": "<p>A suborbital transport of similar dimensions to the semiballistic — same crew and passenger load, slightly lower ceiling.</p><p><em>Cruise 10000 / max 24000 kph. Body 5, Armor 2 (6) as printed (the SRII-scale armor in parentheses is used). Min air speed 200 kph. Cybernetic vehicle control standard. Neo-Anarchists' Guide p.91.</em></p>"
+    "notes": "<p>A suborbital transport of similar dimensions to the semiballistic — same crew and passenger load, slightly lower ceiling.</p><p><em>Cruise 10000 / max 24000 kph. Body 5, Armor 2 (6) as printed (the SRII-scale armor in parentheses is used). Min air speed 200 kph. Cybernetic vehicle control standard. Neo-Anarchists' Guide p.91.</em></p>",
+    "citation": {
+      "book": "naw",
+      "page": "91"
+    }
   },
   "prototypeToken": {
     "name": "\"China Clipper\" Suborbital",

@@ -18,7 +18,11 @@
     "combatTnMod": 0,
     "accessoryRecoilComp": 0,
     "requiresSmartgun": false,
-    "notes": "Straight pay-per-service: the client (or estate) is liable for the full cost of every service except standard High Threat Response, which the annual fee covers. Annual fee. Neo-Anarchists' Guide p.43."
+    "notes": "Straight pay-per-service: the client (or estate) is liable for the full cost of every service except standard High Threat Response, which the annual fee covers. Annual fee. Neo-Anarchists' Guide p.43.",
+    "citation": {
+      "book": "naw",
+      "page": "43"
+    }
   },
   "effects": [],
   "flags": {},

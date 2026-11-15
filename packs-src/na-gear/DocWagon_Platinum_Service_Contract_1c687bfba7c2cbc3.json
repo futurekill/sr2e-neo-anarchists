@@ -18,7 +18,11 @@
     "combatTnMod": 0,
     "accessoryRecoilComp": 0,
     "requiresSmartgun": false,
-    "notes": "Free High Threat Response and four free resuscitations per year, plus a 50% discount on acute and extended care; the client pays only death compensation for employees and bystanders. Annual fee. Neo-Anarchists' Guide p.43."
+    "notes": "Free High Threat Response and four free resuscitations per year, plus a 50% discount on acute and extended care; the client pays only death compensation for employees and bystanders. Annual fee. Neo-Anarchists' Guide p.43.",
+    "citation": {
+      "book": "naw",
+      "page": "43"
+    }
   },
   "effects": [],
   "flags": {},

@@ -18,7 +18,11 @@
     "combatTnMod": 0,
     "accessoryRecoilComp": 0,
     "requiresSmartgun": false,
-    "notes": "A low-cost tap/bug detector — jack it into a phone's dataline and press TEST; green means clear, red means a tap or bug. (Does not work on cellular lines.) Neo-Anarchists' Guide p.75."
+    "notes": "A low-cost tap/bug detector — jack it into a phone's dataline and press TEST; green means clear, red means a tap or bug. (Does not work on cellular lines.) Neo-Anarchists' Guide p.75.",
+    "citation": {
+      "book": "naw",
+      "page": "75"
+    }
   },
   "effects": [],
   "flags": {},

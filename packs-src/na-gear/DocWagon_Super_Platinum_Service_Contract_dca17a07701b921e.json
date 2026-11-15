@@ -18,7 +18,11 @@
     "combatTnMod": 0,
     "accessoryRecoilComp": 0,
     "requiresSmartgun": false,
-    "notes": "All Platinum benefits plus free employee death benefits and five free resuscitations per year. The wristband carries a life-signs monitor and locator that automatically calls HTR when vitals leave safe parameters. Available only on request. Annual fee. Neo-Anarchists' Guide p.44."
+    "notes": "All Platinum benefits plus free employee death benefits and five free resuscitations per year. The wristband carries a life-signs monitor and locator that automatically calls HTR when vitals leave safe parameters. Available only on request. Annual fee. Neo-Anarchists' Guide p.44.",
+    "citation": {
+      "book": "naw",
+      "page": "44"
+    }
   },
   "effects": [],
   "flags": {},

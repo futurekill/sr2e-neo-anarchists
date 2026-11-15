@@ -36,7 +36,11 @@
     "equipped": false,
     "accessories": [],
     "notes": "The second Morrissey — fires heavy-pistol ammo but uses light-pistol ranges; underbarrel laser sight. Street Index 2. Neo-Anarchists' Guide p.31.",
-    "streetIndex": 2
+    "streetIndex": 2,
+    "citation": {
+      "book": "naw",
+      "page": "31"
+    }
   },
   "effects": [],
   "flags": {},

@@ -24,7 +24,11 @@
       "max": 10
     },
     "autonav": 4,
-    "notes": "<p>A High-Speed Civil Transport — 95 m long, 40 m wingspan, ~335,000 kg, carrying about 300 passengers at high subsonic/supersonic cruise.</p><p><em>Cruise 1500 / max 2900 kph. Body 4, Armor 1 (3) as printed (the SRII-scale armor in parentheses is used). Min air speed 100 kph. Cybernetic vehicle control standard. Neo-Anarchists' Guide p.91.</em></p>"
+    "notes": "<p>A High-Speed Civil Transport — 95 m long, 40 m wingspan, ~335,000 kg, carrying about 300 passengers at high subsonic/supersonic cruise.</p><p><em>Cruise 1500 / max 2900 kph. Body 4, Armor 1 (3) as printed (the SRII-scale armor in parentheses is used). Min air speed 100 kph. Cybernetic vehicle control standard. Neo-Anarchists' Guide p.91.</em></p>",
+    "citation": {
+      "book": "naw",
+      "page": "91"
+    }
   },
   "prototypeToken": {
     "name": "\"Arrow\" HSCT",

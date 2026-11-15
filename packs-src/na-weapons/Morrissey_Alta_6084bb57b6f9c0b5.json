@@ -36,7 +36,11 @@
     "equipped": false,
     "accessories": [],
     "notes": "The top of the Morrissey line — a dependable heavy pistol with a laser sight and a recoil-compensation chamber. Street Index 2. Neo-Anarchists' Guide p.31.",
-    "streetIndex": 2
+    "streetIndex": 2,
+    "citation": {
+      "book": "naw",
+      "page": "31"
+    }
   },
   "effects": [],
   "flags": {},

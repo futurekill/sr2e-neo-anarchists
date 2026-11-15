@@ -18,7 +18,11 @@
     "combatTnMod": 0,
     "accessoryRecoilComp": 0,
     "requiresSmartgun": false,
-    "notes": "Starts a vehicle's ignition by remote from up to 30 m, with a personal key-code for security. Neo-Anarchists' Guide p.74."
+    "notes": "Starts a vehicle's ignition by remote from up to 30 m, with a personal key-code for security. Neo-Anarchists' Guide p.74.",
+    "citation": {
+      "book": "naw",
+      "page": "74"
+    }
   },
   "effects": [],
   "flags": {},

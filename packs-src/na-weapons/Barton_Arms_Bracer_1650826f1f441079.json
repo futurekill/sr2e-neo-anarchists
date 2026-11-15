@@ -36,7 +36,11 @@
     "equipped": false,
     "accessories": [],
     "notes": "A wrist-mounted single-shot holdout. Adds +1 to all target numbers when fired (concealability 7 refers to the mechanism). Street Index 3. Neo-Anarchists' Guide p.30.",
-    "streetIndex": 3
+    "streetIndex": 3,
+    "citation": {
+      "book": "naw",
+      "page": "30"
+    }
   },
   "effects": [],
   "flags": {},

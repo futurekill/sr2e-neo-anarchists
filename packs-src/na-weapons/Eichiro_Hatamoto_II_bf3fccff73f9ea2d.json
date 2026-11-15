@@ -36,7 +36,11 @@
     "equipped": false,
     "accessories": [],
     "notes": "A polymer single-shot personal-defense pistol chambered for shotgun rounds, with a wraparound grip and wrist brace (undetectable by metal scanners). Damage: the SR2 code the book prints, \"3M3 (8S)\" → 8S. Street Index 2. Neo-Anarchists' Guide p.32.",
-    "streetIndex": 2
+    "streetIndex": 2,
+    "citation": {
+      "book": "naw",
+      "page": "32"
+    }
   },
   "effects": [],
   "flags": {},

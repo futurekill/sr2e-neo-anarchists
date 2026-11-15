@@ -13,7 +13,11 @@
     "legality": "Legal",
     "equipped": false,
     "isLayered": true,
-    "notes": "Zoé designer armor clothing. Neo-Anarchists' Guide p.94."
+    "notes": "Zoé designer armor clothing. Neo-Anarchists' Guide p.94.",
+    "citation": {
+      "book": "naw",
+      "page": "94"
+    }
   },
   "effects": [],
   "flags": {},

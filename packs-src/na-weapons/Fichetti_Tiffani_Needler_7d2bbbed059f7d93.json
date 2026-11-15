@@ -36,7 +36,11 @@
     "equipped": false,
     "accessories": [],
     "notes": "An ultra-fashionable Self-Defender needler pistol firing needle rounds — defenders use Impact Armor. Light-pistol ranges. Street Index 2. Neo-Anarchists' Guide p.30.",
-    "streetIndex": 2
+    "streetIndex": 2,
+    "citation": {
+      "book": "naw",
+      "page": "30"
+    }
   },
   "effects": [],
   "flags": {},

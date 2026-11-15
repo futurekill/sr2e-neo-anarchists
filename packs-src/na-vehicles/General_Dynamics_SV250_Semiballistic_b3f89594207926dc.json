@@ -24,7 +24,11 @@
       "max": 10
     },
     "autonav": 4,
-    "notes": "<p>A semiballistic airliner — ~110 m long, 35 m wingspan, ~300,000 kg, carrying 150 passengers on sub-orbital hops.</p><p><em>Cruise 10000 / max 29000 kph. Body 5, Armor 2 (6) as printed (the SRII-scale armor in parentheses is used). Min air speed 250 kph. Cybernetic vehicle control standard. Neo-Anarchists' Guide p.90.</em></p>"
+    "notes": "<p>A semiballistic airliner — ~110 m long, 35 m wingspan, ~300,000 kg, carrying 150 passengers on sub-orbital hops.</p><p><em>Cruise 10000 / max 29000 kph. Body 5, Armor 2 (6) as printed (the SRII-scale armor in parentheses is used). Min air speed 250 kph. Cybernetic vehicle control standard. Neo-Anarchists' Guide p.90.</em></p>",
+    "citation": {
+      "book": "naw",
+      "page": "90"
+    }
   },
   "prototypeToken": {
     "name": "General Dynamics SV250 Semiballistic",
